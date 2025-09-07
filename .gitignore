@@ -8,3 +8,15 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+archive/
+
+# Environment variables
+.env
+*.env".env" 
